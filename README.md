@@ -16,7 +16,7 @@ A collection of simple desktop applications built with Java Swing.
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/Piyush-1723/java-mini-projects.git
+    git clone https://github.com/Piyush-1723/java-mini-projects.git .
     ```
 2.  Navigate into a project's folder:
     ```bash
